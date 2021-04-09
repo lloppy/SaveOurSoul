@@ -1,5 +1,5 @@
 # SaveOurSoul
 Sos app alert
 
-Send your geolocation like Link in GoogleMaps
-New stuff is voice dialog builderalert
+Send your geolocation like Link in GoogleMaps. 
+New stuff is voice dialog builder
